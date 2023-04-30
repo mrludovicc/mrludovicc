@@ -18,7 +18,7 @@ Hi there! I'm Nabeel Alabed, a full-stack web developer with a passion for learn
 
 Languages, Libraries & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ruby,rails,jquery,html,css,postgres,jest,express,bootstrap,sass,materialui,github&perline=4)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ruby,rails,jquery,html,css,postgres,jest,express,bootstrap,sass,materialui,netlify,github&perline=4)
 
 <h2>📫Connect with me</h2>
 
