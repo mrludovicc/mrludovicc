@@ -13,7 +13,7 @@ Hi there! I'm Nabeel Alabed, a full-stack web developer with a passion for learn
 ![Summary card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrludovicc&theme=github_dark)
 ![Mrludovic Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrludovicc&theme=github_dark)
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrludovicc&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrludovicc&theme=github_dark)](https://git.io/streak-stats)
 <h2>🛠Tech Stack</h2>
 
 Languages, Libraries & Frameworks
