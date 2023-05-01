@@ -18,7 +18,7 @@
 
 Languages, Libraries & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ruby,rails,jquery,html,css,postgres,jest,express,bootstrap,sass,materialui,netlify,github&perline=4)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,ruby,rails,jquery,html,css,postgres,react,express,space,bootstrap,sass,materialui,netlify,space,space,git,github,jest,space,space,space,vscode,stackoverflow,space,space,space,space,regex&perline=6)
 
 <h2>📫Connect with me</h2>
 
