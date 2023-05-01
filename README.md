@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-Hi there! I'm Nabeel Alabed, a full-stack web developer with a passion for learning and exploring new technologies!
+✍ Hi there! I'm Nabeel Alabed, a full-stack web developer with a passion for learning and exploring new technologies!
 <br/>
 💬 Ask me anything, I will be more than happy to help :D
 
