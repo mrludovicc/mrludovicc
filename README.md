@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Python!
 
-- 💬 Ask me anything, I will be more than happy to help :D
+- 💬 Ask me anything, I will be more than happy to help
   
 - 📫 How to reach me: **nabiladly28@gmail.com**
 
