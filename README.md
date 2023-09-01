@@ -6,9 +6,7 @@
 
 - ✍ Hi there! I'm Nabeel Alabed, a full-stack web developer with a passion for learning and exploring new technologies!
 
-- 🔭 I’m currently working on my EAiT recipe application!
-
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Python and TypeScript!
 
 - 💬 Ask me anything, I will be more than happy to help :D
   
