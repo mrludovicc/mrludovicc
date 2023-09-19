@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Java!
 
-- 💬 Ask me anything, I will be more than happy to help :D
+- 💬 Ask me anything, and I will be more than happy to help :D
   
 - 📫 How to reach me: **nabiladly28@gmail.com**
 
